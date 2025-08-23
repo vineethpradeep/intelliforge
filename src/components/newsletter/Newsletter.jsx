@@ -41,7 +41,8 @@ export default function Newsletter() {
             </div>
 
             <small className="text-white-50">
-              Diam sed sed dolor stet amet eirmod
+              Subscribe to our newsletter and never miss the latest updates,
+              offers, and news.
             </small>
           </div>
         </div>

@@ -24,7 +24,7 @@ export default function Hero() {
       <div className="container pt-5">
         <div className="row g-5 pt-5">
           <div
-            className={`col-lg-6 align-self-center text-center text-lg-start mb-lg-5 hero-column`}
+            className={`col-lg-6 align-self-center text-center text-lg-start mb-lg-5 hero-column pb-3`}
           >
             <div className={`hero-svg-bg`}>
               <HeroSVG />
