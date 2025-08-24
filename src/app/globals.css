@@ -596,3 +596,9 @@ h6,
   object-fit: cover;
   z-index: 1;
 }
+
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev,
+.owl-carousel button.owl-dot {
+  border: 1px solid var(--primary) !important;
+}
